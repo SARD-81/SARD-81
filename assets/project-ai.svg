@@ -1,0 +1,24 @@
+<svg width="560" height="248" viewBox="0 0 560 248" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="560" y2="248" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#0F172A"/></linearGradient>
+    <linearGradient id="a" x1="20" y1="20" x2="535" y2="225" gradientUnits="userSpaceOnUse"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <radialGradient id="g" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(490 62) rotate(135) scale(170 135)"><stop stop-color="#8B5CF6" stop-opacity=".18"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="560" height="248" rx="22" fill="url(#bg)"/>
+  <rect width="560" height="248" rx="22" fill="url(#g)"/>
+  <rect x="1" y="1" width="558" height="246" rx="21" stroke="#22D3EE" stroke-opacity=".20" stroke-width="2"/>
+  <rect x="26" y="27" width="96" height="25" rx="12.5" fill="#22D3EE" fill-opacity=".12" stroke="#22D3EE" stroke-opacity=".35"/>
+  <text x="74" y="44" text-anchor="middle" fill="#22D3EE" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="750" letter-spacing="1">PUBLIC PROJECT</text>
+  <text x="28" y="87" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="-.5">AI Front-end</text>
+  <text x="28" y="120" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13.5">AI chat UX, BFF boundaries, WebSocket flows,</text>
+  <text x="28" y="143" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13.5">multilingual auth and production-focused UI.</text>
+  <path d="M440 72h64a18 18 0 0 1 18 18v42a18 18 0 0 1-18 18h-24l-16 15v-15h-24a18 18 0 0 1-18-18V90a18 18 0 0 1 18-18Z" stroke="url(#a)" stroke-width="3"/><circle cx="451" cy="111" r="4" fill="#22D3EE"/><circle cx="470" cy="111" r="4" fill="#22D3EE"/><circle cx="489" cy="111" r="4" fill="#22D3EE"/>
+  <rect x="30" y="190" width="96" height="28" rx="14" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".28"/>
+      <text x="78" y="208" text-anchor="middle" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700">Next.js</text>
+<rect x="138" y="190" width="96" height="28" rx="14" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".28"/>
+      <text x="186" y="208" text-anchor="middle" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700">TypeScript</text>
+<rect x="246" y="190" width="96" height="28" rx="14" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".28"/>
+      <text x="294" y="208" text-anchor="middle" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700">WebSocket</text>
+<rect x="354" y="190" width="96" height="28" rx="14" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".28"/>
+      <text x="402" y="208" text-anchor="middle" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700">Vitest</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="560" height="248" viewBox="0 0 560 248" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="560" y2="248" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#0F172A"/></linearGradient>
+    <linearGradient id="a" x1="20" y1="20" x2="535" y2="225" gradientUnits="userSpaceOnUse"><stop stop-color="#34D399"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <radialGradient id="g" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(490 62) rotate(135) scale(170 135)"><stop stop-color="#22C55E" stop-opacity=".18"/><stop offset="1" stop-color="#22C55E" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="560" height="248" rx="22" fill="url(#bg)"/>
+  <rect width="560" height="248" rx="22" fill="url(#g)"/>
+  <rect x="1" y="1" width="558" height="246" rx="21" stroke="#34D399" stroke-opacity=".20" stroke-width="2"/>
+  <rect x="26" y="27" width="96" height="25" rx="12.5" fill="#34D399" fill-opacity=".12" stroke="#34D399" stroke-opacity=".35"/>
+  <text x="74" y="44" text-anchor="middle" fill="#34D399" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="750" letter-spacing="1">PUBLIC PROJECT</text>
+  <text x="28" y="87" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="-.5">Doctor Appointment</text>
+  <text x="28" y="120" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13.5">Atomic booking, wallet ledger, OTP, constraints,</text>
+  <text x="28" y="143" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13.5">Redis, Docker and concurrency-safe workflows.</text>
+  <rect x="438" y="69" width="86" height="88" rx="18" stroke="url(#a)" stroke-width="3"/><path d="M459 92h44M459 111h44M459 130h24" stroke="#34D399" stroke-width="3" stroke-linecap="round"/><circle cx="510" cy="142" r="22" fill="#0F172A" stroke="#22C55E" stroke-width="3"/><path d="m499 142 7 7 14-16" stroke="#22C55E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="30" y="190" width="96" height="28" rx="14" fill="#0F172A" stroke="#34D399" stroke-opacity=".28"/>
+      <text x="78" y="208" text-anchor="middle" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700">Django</text>
+<rect x="138" y="190" width="96" height="28" rx="14" fill="#0F172A" stroke="#34D399" stroke-opacity=".28"/>
+      <text x="186" y="208" text-anchor="middle" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700">PostgreSQL</text>
+<rect x="246" y="190" width="96" height="28" rx="14" fill="#0F172A" stroke="#34D399" stroke-opacity=".28"/>
+      <text x="294" y="208" text-anchor="middle" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700">Redis</text>
+<rect x="354" y="190" width="96" height="28" rx="14" fill="#0F172A" stroke="#34D399" stroke-opacity=".28"/>
+      <text x="402" y="208" text-anchor="middle" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700">Docker</text>
+</svg>
