@@ -11,7 +11,7 @@
   <text x="74" y="44" text-anchor="middle" fill="#A78BFA" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="750" letter-spacing="1">PRIVATE WORK</text>
   <text x="28" y="87" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="-.5">Private Systems</text>
   <text x="28" y="120" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13.5">Some of the hardest engineering lives behind</text>
-  <text x="28" y="143" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13.5">private repos: AI, workflows, platforms & infra.</text>
+  <text x="28" y="143" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13.5">private repos: AI, workflows, platforms &amp; infra.</text>
   <rect x="453" y="91" width="56" height="53" rx="12" stroke="url(#a)" stroke-width="3"/><path d="M463 91V79c0-11 8-20 18-20s18 9 18 20v12" stroke="#A78BFA" stroke-width="3" stroke-linecap="round"/><circle cx="481" cy="116" r="5" fill="#F472B6"/><path d="M481 121v10" stroke="#F472B6" stroke-width="3" stroke-linecap="round"/>
   <rect x="30" y="190" width="96" height="28" rx="14" fill="#0F172A" stroke="#A78BFA" stroke-opacity=".28"/>
       <text x="78" y="208" text-anchor="middle" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700">Architecture</text>
